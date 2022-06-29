@@ -17,7 +17,7 @@
 • git pull
 ```
 #### Screenshot
-![foto](https://github.com/DekuraDev/surat-surat-al-quran/edit/main/screenshot.png)
+![foto](https://github.com/DekuraDev/surat-surat-al-quran/blob/main/screenshot.png)
 
 #### Report bug
 
