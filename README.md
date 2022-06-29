@@ -9,8 +9,8 @@
 • pkg install python
 • pkg install git
 • pip install requests
-• git clone https://github.com/DekuraDev/data-gempa-bumi
-• cd data-gempa-bumi && python bmkg.py
+• git clone https://github.com/DekuraDev/surat-surat-al-quran
+• cd surat-surat-al-quran && python surat.py
 ```
 #### update 
 ```
